@@ -15,7 +15,14 @@ Search/Add: Users will be able to add vaccinations to each child profile and rec
 Create Post: Users will be able to create a profile for each child when logged in. Each child profile will appear in the user’s profile.
 
 ### Technologies
-C# and MySQL
+C# / ASP.NET Core MVC
+Entity Framework
+MySQL
+HTML
+CSS
+Bootstrap
+Razor Templates 
+GIT
 
 ### What I'll Have to Learn
 Wireframing in Adobe XD
