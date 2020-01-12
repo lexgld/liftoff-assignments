@@ -18,8 +18,7 @@ Create Post: Users will be able to create a profile for each child when logged i
 C#, ASP.NET Core MVC, Entity Framework, MySQL, HTML, CSS, Razor Templates
 
 ### What I'll Have to Learn
-Wireframing in Adobe XD
-Possibly coding email alerts
+In the course of building this project, we’ll have to learn how to put a scheduler into the user's account based on immunizations they might want to add. (e.g. User gets an email alert that because of the child's age they should get XXX vaccine). We have to learn to use Adobe XD and Bootstrap for the design part.
 
 ### Project Tracker
 https://trello.com/b/VYDzNCP1/liftoff-project
