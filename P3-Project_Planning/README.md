@@ -9,6 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 
 ![Home Page (top)](https://github.com/lexgld/liftoff-assignments/blob/master/P3-Project_Planning/Home_Top.PNG)
+![Home Page (middle)](https://github.com/lexgld/liftoff-assignments/blob/master/P3-Project_Planning/Home_Middle.PNG)
+![Home Page (bottom)](https://github.com/lexgld/liftoff-assignments/blob/master/P3-Project_Planning/Home_Bottom.PNG)
 
 ### Project Tracker
 
